@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "dealership_database",
+            "connectString": "postgres://vfsaylco:qX28B3JifHU-b3ZuNPIdX4gUurwF51ZH@peanut.db.elephantsql.com/vfsaylco"
+        }
+    ]
+}
